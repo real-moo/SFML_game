@@ -2,8 +2,8 @@
 //  Alien.cpp
 //  Game
 //
-//  Created by 김민주 on 2020/06/26.
-//  Copyright © 2020 김민주. All rights reserved.
+//  Created by real-moo on 2020/06/26.
+//  Copyright © 2020 real-moo. All rights reserved.
 //
 #include <SFML/Graphics.hpp>
 #include <iostream>
